@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.content-area {
+  max-height: calc(100vh - 4rem);
+}
+
+.card:hover {
+  z-index: 10;
+  border-radius: 8px;
+}
