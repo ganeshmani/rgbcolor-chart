@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rgbcolor-chart/static/css/main.2c136496.chunk.css",
+    "main.js": "/rgbcolor-chart/static/js/main.390c6d82.chunk.js",
+    "main.js.map": "/rgbcolor-chart/static/js/main.390c6d82.chunk.js.map",
+    "runtime-main.js": "/rgbcolor-chart/static/js/runtime-main.5cadc4b4.js",
+    "runtime-main.js.map": "/rgbcolor-chart/static/js/runtime-main.5cadc4b4.js.map",
+    "static/js/2.27e659df.chunk.js": "/rgbcolor-chart/static/js/2.27e659df.chunk.js",
+    "static/js/2.27e659df.chunk.js.map": "/rgbcolor-chart/static/js/2.27e659df.chunk.js.map",
+    "index.html": "/rgbcolor-chart/index.html",
+    "precache-manifest.eea065a6bdd5bcedc1f5982ede6fb4cd.js": "/rgbcolor-chart/precache-manifest.eea065a6bdd5bcedc1f5982ede6fb4cd.js",
+    "service-worker.js": "/rgbcolor-chart/service-worker.js",
+    "static/css/main.2c136496.chunk.css.map": "/rgbcolor-chart/static/css/main.2c136496.chunk.css.map",
+    "static/js/2.27e659df.chunk.js.LICENSE.txt": "/rgbcolor-chart/static/js/2.27e659df.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rgbcolor-chart/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cadc4b4.js",
+    "static/js/2.27e659df.chunk.js",
+    "static/css/main.2c136496.chunk.css",
+    "static/js/main.390c6d82.chunk.js"
+  ]
+}
